@@ -6,7 +6,7 @@ authors = [
     "Francisco Jimenez <jjcfrank@gmail.com>",
     "Yuri Astrakhan <YuriAstrakhan@gmail.com>",
 ]
-repository = "https://github.com/jjcfrancisco/fastpfor"
+repository = "https://github.com/Fast-pack/fastpfor"
 edition = "2021"
 license = "MIT OR Apache-2.0"
 keywords = ["fastpfor", "compression"]
